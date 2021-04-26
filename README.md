@@ -13,6 +13,5 @@ I'm a Microsoft system engineer.
 <summary>My GitHub Stats</summary>
 
 ![Domir's github stats](https://github-readme-stats.vercel.app/api?username=Domir-code&theme=vue&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Domir-code&layout=compact&theme=vue)]
 
 </details>
