@@ -4,6 +4,7 @@
 I'm a Microsoft system engineer.
 
 📫 How to reach me ...
+- LinkedIn: [nasybullin](https://www.linkedin.com/in/nasybullin/)
 - Website: [damir.host](https://damir.host/)
 - Email: [nasybullin@damir.host](mailto:nasybullin@damir.host)
 
