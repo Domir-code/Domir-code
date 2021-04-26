@@ -1,7 +1,7 @@
 
 ## I'm Damir! :wave:
 
-I'm a Microsoft system engineer.
+I'm a Microsoft system engineer from Russia.
 
 📫 How to reach me ...
 - LinkedIn: [nasybullin](https://www.linkedin.com/in/nasybullin/)
