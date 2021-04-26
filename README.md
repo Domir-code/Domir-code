@@ -1,5 +1,5 @@
 
-## I'm Domir! :wave:
+## I'm Damir! :wave:
 
 I'm a Microsoft system engineer.
 
